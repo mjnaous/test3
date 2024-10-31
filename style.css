@@ -6,13 +6,17 @@ body {
   font-family: 'Atkinson Hyperlegible', sans-serif;
   display: flex;
   align-items: center;
-  justify-content: center;
+  
   height: 100vh;
   margin: 0;
 }
 
 .container {
   text-align: center;
+}
+
+a {
+  color: #00a9e2;
 }
 
 #date {
